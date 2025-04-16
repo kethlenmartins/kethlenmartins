@@ -1,7 +1,5 @@
-# Oi! Eu sou a Kethlen ;)
-
+# Oi! Eu sou a Kethlen Martins
 ![](https://komarev.com/ghpvc/?username=kethlenmartins&color=006bed)
-
 ## Sobre mim
 
 - 🎓 Estudando Engenharia da Computação no Inteli.
@@ -14,7 +12,7 @@ Em breve...
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil da Kethlen">
+<a href="https://github.com/kethlenmartins" title="Perfil da Kethlen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kethlenmartins&theme=dracula&show_icons=true" />
 </a>
 
