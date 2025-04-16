@@ -18,6 +18,6 @@ Em breve...
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kethlenmartins/)](https://www.linkedin.com/in/kethlenmartins/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kethlen.silva@sou.inteli.edu.br)](mailto:kethlen.silva@sou.inteli.edu.br)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kethlenmartins/)](https://www.linkedin.com/in/kethlenmartins/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kethlen.silva@sou.inteli.edu.br)](mailto:kethlen.silva@sou.inteli.edu.br)
 [![GitHub](https://img.shields.io/github/followers/kethlenmartins?label=follow&style=social)](https://github.com/kethlenmartins)
