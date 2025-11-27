@@ -2,13 +2,16 @@
 ![](https://komarev.com/ghpvc/?username=kethlenmartins&color=006bed)
 ## Sobre mim
 
-- 🎓 Estudando Engenharia da Computação no Inteli.
-- 💼 Trabalhando como estagiária de educação e tecnologia no Estímulo e na NearX.
-- 🌱 Participando de muitos hackathons de web3.
+- 🎓 Estudando Ciência da Computação no Inteli.
+- 💼 Trabalhando como analista de projetos educacionais no Estímulo.
+- 🌱 Participando de muitos hackathons de web3 :)
 
 ## Minhas Skills
 
-Em breve...
+- Full Stack: Node.js/NestJS, React
+- Data Science:
+- Web3:
+- Business:
 
 <br/>
 
