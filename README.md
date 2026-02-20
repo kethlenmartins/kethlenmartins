@@ -3,15 +3,15 @@
 ## Sobre mim
 
 - 🎓 Estudando Ciência da Computação no Inteli.
-- 💼 Trabalhando como analista de projetos educacionais no Estímulo.
-- 🌱 Participando de muitos hackathons de web3 :)
+- 💼 Trabalhando como Software Engineer na Oi Bill.
+- 🌱 Participando de muitos hackathons e maratonas de programação :)
 
 ## Minhas Skills
 
-- Full Stack: Node.js/NestJS, React
-- Data Science:
+- Full Stack: Node.js/NestJS, React,
+- Cloud: AWS, Terraform
 - Web3:
-- Business:
+- Outras ferramentas:
 
 <br/>
 
