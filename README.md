@@ -18,8 +18,8 @@ Estudante de CS com foco em sistemas embarcados, sensoriamento biomédico e enge
 
 | | |
 |---|---|
-| 🥇 5+ hackathons internacionais vencidos | 🏥 10+ projetos com empresas reais |
-| 🧬 3 clubes fundados ou liderados na faculdade | 👩‍💻 70+ alunas impactadas em STEM |
+| 🥇 5+ hackathons vencidos | 🏥 10+ projetos com empresas reais |
+| 🧬 3 clubes fundados ou liderados na faculdade | 👩‍💻 400+ garotas impactadas em STEM |
 
 ---
 
@@ -47,8 +47,8 @@ Estudante de CS com foco em sistemas embarcados, sensoriamento biomédico e enge
 
 ## 🔭 Projetos em destaque
 
-- 🦾 **[Carpo IDE](https://github.com/kethlenmartins)** — linguagem de programação e IDE para glove de reabilitação sensorial (USP Medical School). Aprovado por terapeutas ocupacionais em testes de usabilidade estruturados.
-- ⚙️ **Plataforma de tickets distribuída** — arquitetura cloud-native com Kubernetes, Terraform e stack de observabilidade completo (BCG X)
+- 🦾 **Carpo IDE** — linguagem de programação e IDE para luva de reabilitação sensorial (Faculdade de Medicina USP)
+- ⚙️ **Plataforma de tickets distribuída** — arquitetura cloud-native com AWS, Kubernetes, Terraform e stack de observabilidade completo (BCG X)
 - 👁️ **Detecção de fissuras por visão computacional** — pipeline de deep learning para imagens de drone com PyTorch e OpenCV (IPT)
 - 🏥 **Dispositivo IoT hospitalar** — automação de preparo de medicamentos em farmácia clínica real com Arduino/ESP32 (HC Unicamp)
 - 🌱 **Monitoramento florestal IoT** — rede de sensores ambientais com auditoria de créditos de carbono em blockchain (Abundance Brasil)
