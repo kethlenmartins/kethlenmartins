@@ -1,70 +1,130 @@
-# Oi! Eu sou a Kethlen 👋
+# Hi! I'm Kethlen 👋
 
-**Software Engineer · Computer Science @ Inteli · São Paulo, Brasil**
+**Software Engineer · Computer Science @ Inteli · São Paulo, Brazil**
 
-![Profile views](https://komarev.com/ghpvc/?username=kethlenmartins&color=1D9E75&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=kethlenmartins\&color=1D9E75\&style=flat)
 
-Estudante de CS com foco em sistemas embarcados, sensoriamento biomédico e engenharia de software. Construo coisas que importam: de gloves de reabilitação clínica a plataformas distribuídas, de interfaces fisiológicas a infraestrutura blockchain.
+Software Engineer focused on **backend systems, distributed architectures, cloud infrastructure, and AI**.
 
----
+I enjoy building systems end-to-end — from designing microservices and event-driven architectures to deploying, observing, and scaling production infrastructure.
 
-## 🔬 Agora
-
-- 💼 Software Engineer na **Oi Bill** — backend distribuído e pipelines de cobrança
+Currently working with **Python, TypeScript, Kubernetes, Terraform, GCP, and cloud-native systems**, while pursuing a B.Sc. in Computer Science at Inteli.
 
 ---
 
-## 🏆 Conquistas
+## 🔭 What I'm doing now
 
-| | |
-|---|---|
-| 🥇 5+ hackathons vencidos | 🏥 10+ projetos com empresas reais |
-| 🧬 3 clubes fundados ou liderados na faculdade | 👩‍💻 400+ garotas impactadas em STEM |
+* 💼 **Software Engineer @ CoreAi** — building and operating microservices and cloud infrastructure
+* 🧮 **Data Engineering @ Inteli** — building large-scale data collection and processing pipelines
+* 🤖 Exploring **Agentic RAG, LLM applications, and AI engineering**
+* ⚙️ Deepening my knowledge of **distributed systems, HPC, and cloud architecture**
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Technical Focus
 
-**Embarcados & Hardware**
-`Arduino` `ESP32` `Raspberry Pi` `C/C++` `EMG · PPG · EOG` `IoT`
+**Backend & Distributed Systems**
+`Python` `TypeScript` `FastAPI` `Node.js` `NestJS` `Microservices` `Event-Driven Architecture` `RabbitMQ`
 
-**Backend & Cloud**
-`Node.js` `TypeScript` `NestJS` `Hono` `AWS` `Docker` `Kubernetes` `Terraform` `PostgreSQL` `RabbitMQ`
+**Cloud & Infrastructure**
+`GCP` `AWS` `Docker` `Kubernetes` `Terraform` `Helm` `ArgoCD` `CI/CD` `GitOps`
+
+**Observability**
+`OpenTelemetry` `Prometheus` `Grafana` `Honeycomb`
 
 **AI & Data**
-`Python` `PyTorch` `OpenCV` `Scikit-learn` `Pandas` `NumPy`
-
-**Web3 & Blockchain**
-`Solidity` `Rust / Soroban` `XRPL` `Ethers.js` `Hardhat` `OpenZeppelin`
+`Python` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `RAG` `Embeddings` `PostgreSQL` `pgvector`
 
 **Frontend**
 `React` `Next.js` `SvelteKit`
 
-**Observabilidade**
-`Prometheus` `Grafana` `OpenTelemetry` `Honeycomb`
+**Blockchain**
+`Solidity` `Rust` `Ethers.js` `Hardhat` `OpenZeppelin` `XRPL`
+
+**Languages**
+`Python` `TypeScript` `JavaScript` `Rust` `Java` `C/C++` `SQL`
 
 ---
 
-## 🔭 Projetos em destaque
+## 🚀 Selected Projects
 
-- 🦾 **Carpo IDE** — linguagem de programação e IDE para luva de reabilitação sensorial (Faculdade de Medicina USP)
-- ⚙️ **Plataforma de tickets distribuída** — arquitetura cloud-native com AWS, Kubernetes, Terraform e stack de observabilidade completo (BCG X)
-- 👁️ **Detecção de fissuras por visão computacional** — pipeline de deep learning para imagens de drone com PyTorch e OpenCV (IPT)
-- 🏥 **Dispositivo IoT hospitalar** — automação de preparo de medicamentos em farmácia clínica real com Arduino/ESP32 (HC Unicamp)
-- 🌱 **Monitoramento florestal IoT** — rede de sensores ambientais com auditoria de créditos de carbono em blockchain (Abundance Brasil)
+### ⚙️ Scalable Distributed Ticketing Platform — BCG X
+
+Cloud-native distributed system designed to handle **50k concurrent requests**.
+
+`AWS` `Kubernetes` `Terraform` `Docker` `Grafana` `Prometheus` `Python` `TypeScript`
+
+Focused on **horizontal scalability, high availability, observability, and fault detection**.
+
+---
+
+### 🤖 Agentic RAG for Legal Document Generation — Colliers Consulting
+
+AI-powered assistant for generating and reviewing legal contract drafts in Portuguese.
+
+Implemented **agentic RAG workflows, document retrieval, contract classification, embeddings, and LLM-based generation**.
+
+`Python` `PostgreSQL` `pgvector` `LLMs` `RAG` `Embeddings`
+
+---
+
+### 🧮 Credit Limit Optimization — Banco Pan
+
+Optimization system for allocating credit limits across **200k+ customers**.
+
+Built a linear optimization solution using the **Simplex algorithm** and a web platform for experimentation and benchmarking.
+
+`Python` `Linear Programming`
+
+---
+
+### 🦾 Carpo IDE — Faculdade de Medicina USP
+
+Programming language and IDE for a **sensory rehabilitation glove**, designed to translate occupational therapy activities into executable programs.
+
+`Python` `DSL` `Compilers` `Sensors` `EMG` `PPG` `EOG`
+
+---
+
+### 🌱 Forest Monitoring & Carbon Audit
+
+IoT sensor network for environmental monitoring combined with **blockchain-based carbon credit auditing**.
+
+`ESP32` `IoT` `Blockchain` `Solidity`
+
+---
+
+## 🏆 Highlights
+
+|                                                       |                                        |
+| ----------------------------------------------------- | -------------------------------------- |
+| 🥇 **5+ hackathon wins**                              | 🏢 **10+ industry projects**           |
+| 👩‍💻 **400+ girls reached through STEM initiatives** | 🎓 **Full merit scholarship @ Inteli** |
+
+**Selected achievements**
+
+* 🥇 1st Place — Modular Carnival 2025, Arbitrum Category
+* 🥈 2nd Place — XRPL Hackathon 2024, Mainnet Category
+* 🏆 Most Original Project — HackaNation 2025, AI Category
+* 🌎 Global Nominee — NASA Space Apps Challenge 2022
+* 🚗 Regional Finalist — Uber Global Hackathon 2022
+* 🎓 Merit-based Selection — Ethereum Foundation Hacker House
+* 🇮🇱 Admitted — Technion Summer Research Program
 
 ---
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/kethlenmartins" title="Perfil da Kethlen">
+<a href="https://github.com/kethlenmartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kethlenmartins&theme=dracula&show_icons=true" />
 </a>
 
 ---
 
-## 🌍 Onde me encontrar
+## 🌍 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kethlenmartins-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kethlenmartins/)
-[![Email](https://img.shields.io/badge/Email-kethlen.martins21@gmail.com-1D9E75?style=flat-square&logo=gmail&logoColor=white)](mailto:kethlen.martins21@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/kethlenmartins?label=Seguir&style=social)](https://github.com/kethlenmartins)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kethlenmartins-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/kethlenmartins/)
+
+[![Email](https://img.shields.io/badge/Email-kethlen.martins21@gmail.com-1D9E75?style=flat-square\&logo=gmail\&logoColor=white)](mailto:kethlen.martins21@gmail.com)
+
+[![GitHub](https://img.shields.io/github/followers/kethlenmartins?label=Follow\&style=social)](https://github.com/kethlenmartins)
