@@ -48,7 +48,7 @@ Currently working with **Python, TypeScript, Kubernetes, Terraform, GCP, and clo
 
 ## 🚀 Selected Projects
 
-### ⚙️ Scalable Distributed Ticketing Platform — BCG X
+### ⚙️ Scalable Distributed Ticketing Platform with BCG X
 
 Cloud-native distributed system designed to handle **50k concurrent requests**.
 
@@ -58,7 +58,7 @@ Focused on **horizontal scalability, high availability, observability, and fault
 
 ---
 
-### 🤖 Agentic RAG for Legal Document Generation — Colliers Consulting
+### 🤖 Agentic RAG for Legal Document Generation with Colliers Consulting
 
 AI-powered assistant for generating and reviewing legal contract drafts in Portuguese.
 
@@ -68,7 +68,7 @@ Implemented **agentic RAG workflows, document retrieval, contract classification
 
 ---
 
-### 🧮 Credit Limit Optimization — Banco Pan
+### 🧮 Credit Limit Optimization with Banco Pan
 
 Optimization system for allocating credit limits across **200k+ customers**.
 
@@ -78,7 +78,7 @@ Built a linear optimization solution using the **Simplex algorithm** and a web p
 
 ---
 
-### 🦾 Carpo IDE — Faculdade de Medicina USP
+### 🦾 Carpo IDE with Faculdade de Medicina da USP
 
 Programming language and IDE for a **sensory rehabilitation glove**, designed to translate occupational therapy activities into executable programs.
 
